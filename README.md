@@ -1,0 +1,3 @@
+A simple Todo app.
+
+Extremely simple app thats for helping me learn...
